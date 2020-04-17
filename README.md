@@ -1,7 +1,2 @@
-# foodtasker
-# foodtasker
-# foodtasker
-# foodtasker
-# foodtasker
-# foodtasker
-# foodtasker
+Still under developmet
+
